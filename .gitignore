@@ -1,4 +1,4 @@
 node_modules
 .env
 config.json
-piada.js
+src/files/jokes.json
